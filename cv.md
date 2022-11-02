@@ -19,7 +19,7 @@ June 2018 - present (4 years)</br>
 Insulator
 [JSC “Beltps”](https://beltps.com/ru/)</br>
 ---
-**Additional information:**
+## Additional information:
 >I'm engaged in self-study of the salesforce platform and programming in Apex, JavaScript. Also, I am studying the basics of SQL</br>
 Performed various tasks according to descriptions found on the Internet. Among them:</br>
 >Aura component which containing a table that displays all available accounts and with row action (edit, delete, view). The component can be placed on an Account record and have an online search.</br>
