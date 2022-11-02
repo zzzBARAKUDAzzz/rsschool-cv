@@ -2,7 +2,7 @@
 # Poberezhny Vadim
 **email:** poberezhnyvadim@gmail.com </br>
 **phone:** +375297044843</br>
-Brest,Belarus </br>
+Brest,Belarus
 ![](https://user-images.githubusercontent.com/107987405/199612688-531091ad-9084-4454-be32-804015aa88a7.png)
 
 **Education:**</br>
