@@ -1,4 +1,4 @@
-![gggg](/Users/macbookpro/Downloads/fullsizeoutput_696.png)
+![gggg](https://avatarko.ru/img/kartinka/1/Crazy_Frog.jpg)
 
 
 
