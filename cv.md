@@ -18,7 +18,7 @@ Mechanical Engineering (2014-2015)</br>
 June 2018 - present (4 years)</br>
 Insulator
 [JSC “Beltps”](https://beltps.com/ru/)</br>
----
+
 **Additional information:**
 >I'm engaged in self-study of the salesforce platform and programming in Apex, JavaScript. Also, I am studying the basics of SQL</br>
 Performed various tasks according to descriptions found on the Internet. Among them:</br>
