@@ -16,7 +16,15 @@ Mechanical Engineering (2014-2015)</br>
 **Work experience:**
 June 2018 - present (4 years)</br>
 Insulator
-[JSC “Beltps”](https://beltps.com/ru/)
+[JSC “Beltps”](https://beltps.com/ru/)</br>
+
+**Additional information:**
+I am engaged in self-study of the salesforce platform and programming in Apex, JavaScript. Also, I am studying the basics of SQL
+Performed various tasks according to descriptions found on the Internet. Among them:
+- Aura component which containing a table that displays all available accounts and with row action (edit, delete, view). The component can be placed on an Account record and have an online search.
+-Aura component which can be placed on any record page and displays the current weather in the city entered in the search line. Works using free API openweathermap.org
+I also reproduced the material from the trailhead, making my own additions and watching how it would affect the result.
+
 
 
 
