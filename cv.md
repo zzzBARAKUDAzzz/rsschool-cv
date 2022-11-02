@@ -14,7 +14,8 @@ Pinsk College of Mechanical Engineering</br>
 Mechanical Engineering (2014-2015)</br>
 
 **Work experience:**
-June 2018 - present (4 years) Insulator
+June 2018 - present (4 years)</br>
+Insulator
 [JSC “Beltps”](https://beltps.com/ru/)
 
 
