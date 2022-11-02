@@ -27,7 +27,7 @@ Performed various tasks according to descriptions found on the Internet. Among t
 >I also reproduced the material from the trailhead, making my own additions and watching how it would affect the result.</br>
 ---
 ## English level: A2
----
+
 ## Skills: Apex,Lightning,Lightning Web Component,JavaScript,SOQL,REST,JSON
 
 ***
