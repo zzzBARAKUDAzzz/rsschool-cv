@@ -2,9 +2,7 @@
 # Poberezhny Vadim
 **email:** poberezhnyvadim@gmail.com </br>
 **phone:** +375297044843
-                                                           
-
-##**Education:**
+**Education:**
 Pinsk College of Mechanical Engineering </br>
 Mechanical Engineering (2014-2015)
 
