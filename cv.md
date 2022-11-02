@@ -11,5 +11,11 @@ tps://www.linkedin.com/in/vadim-poberezhny-237588240/)
 
 ## **Education:** </br>
 Pinsk College of Mechanical Engineering</br>
-Mechanical Engineering (2014-2015)
+Mechanical Engineering (2014-2015)</br>
+
+**Work experience:**
+June 2018 - present (4 years) Insulator
+[JSC “Beltps”](https://beltps.com/ru/)
+
+
 
