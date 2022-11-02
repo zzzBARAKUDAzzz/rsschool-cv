@@ -28,7 +28,9 @@ Performed various tasks according to descriptions found on the Internet. Among t
 ---
 ## English level: A2
 
-## Skills: Apex,Lightning,Lightning Web Component,JavaScript,SOQL,REST,JSON
+## Skills: 
++ Apex
++ Lightning,Lightning Web Component,JavaScript,SOQL,REST,JSON
 
 
  
