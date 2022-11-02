@@ -26,11 +26,12 @@ Performed various tasks according to descriptions found on the Internet. Among t
 >Aura component which can be placed on any record page and displays the current weather in the city entered in the search line. Works using free API openweathermap.org</br>
 >I also reproduced the material from the trailhead, making my own additions and watching how it would affect the result.</br>
 ---
-**Skills:**
- Apex,Lightning,Lightning Web Component,JavaScript,SOQL,REST,JSON.
----
 **English level:**
 A2
+---
+**Skills:**
+ Apex,Lightning,Lightning Web Component,JavaScript,SOQL,REST,JSON
+
 ***
 
 
