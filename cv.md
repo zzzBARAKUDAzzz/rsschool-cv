@@ -5,7 +5,7 @@
 
 **Location:** Brest,Belarus</br>
 [![](https://user-images.githubusercontent.com/107987405/199612688-531091ad-9084-4454-be32-804015aa88a7.png)](
-tps://www.linkedin.com/in/vadim-poberezhny-237588240/)
+https://www.linkedin.com/in/vadim-poberezhny-237588240/)
 [![](https://user-images.githubusercontent.com/107987405/199615433-11d5c6f6-421d-4d34-9788-a04f8e9e2fd1.png)](https://github.com/zzzBARAKUDAzzz)
 [![](https://user-images.githubusercontent.com/107987405/199616388-8f485a6e-4662-4f3d-a9f8-fe672e032ac0.png)](https://trailblazer.me/id?lang=en_US)   
 ## Education:
