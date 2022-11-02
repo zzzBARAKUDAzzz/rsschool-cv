@@ -5,7 +5,7 @@
 **Location:** Brest,Belarus
 [![](https://user-images.githubusercontent.com/107987405/199612688-531091ad-9084-4454-be32-804015aa88a7.png)](https://www.linkedin.com/in/vadim-poberezhny-237588240/)
 
-## **Education:** ##</br>
+## **Education:** </br>
 Pinsk College of Mechanical Engineering</br>
 Mechanical Engineering (2014-2015)
 
