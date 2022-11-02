@@ -4,4 +4,7 @@
 **phone:** +375297044843
                                                            
 
-## Junior Frontend Developer
+##**Education:**
+Pinsk College of Mechanical Engineering </br>
+Mechanical Engineering (2014-2015)
+
