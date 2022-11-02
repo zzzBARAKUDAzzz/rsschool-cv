@@ -10,7 +10,7 @@ tps://www.linkedin.com/in/vadim-poberezhny-237588240/)
     
 
 ## **Education:** </br>
-Pinsk College of Mechanical Engineering</br>
+[Pinsk College of Mechanical Engineering](https://pk.brest.by/)</br>
 Mechanical Engineering (2014-2015)</br>
 
 **Work experience:**
