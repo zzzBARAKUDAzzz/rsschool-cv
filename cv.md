@@ -30,7 +30,7 @@ Performed various tasks according to descriptions found on the Internet. Among t
 Apex, Lightning, Lightning Web Component, JavaScript, SOQL, REST, JSON.
 ---
 **English level:**
-[A2](https://training.by/UserProfile#!/Main/?lang=ru)
+A2
 ***
 
 
