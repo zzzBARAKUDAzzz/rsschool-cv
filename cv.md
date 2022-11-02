@@ -2,6 +2,7 @@
 # Poberezhny Vadim
 **email:** poberezhnyvadim@gmail.com </br>
 **phone:** +375297044843</br>
+Brest,Belarus</br>
 
 **Education:**</br>
 Pinsk College of Mechanical Engineering</br>
