@@ -2,8 +2,7 @@
 
 
 
-# 
->>>>>>>>>>>>>>>>>>>>>>>>Poberezhny Vadim.            
+#                                           Poberezhny Vadim.            
 ============================== 
 
 ## Junior Frontend Developer
