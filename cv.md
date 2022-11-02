@@ -2,7 +2,8 @@
 
 
 
-#                                           Poberezhny Vadim.            
+# Poberezhny Vadim.            
 ============================== 
+                                            poberezhnyvadim@gmail.com
 
 ## Junior Frontend Developer
