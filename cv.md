@@ -3,7 +3,7 @@
 **email:** poberezhnyvadim@gmail.com </br>
 **phone:** +375297044843</br>
 Brest,Belarus 
-![](<img src="data:image/svg+xml;base64,CjxpbWcgc3R5bGU9IndpZHRoOiAxMDAlOyBoZWlnaHQ6IGF1dG87IGZsb2F0OiBsZWZ0O2JhY2tncm91bmQtaW1hZ2U6IG5vbmU7IiBzcmM9Ii8vcGljLm9ubGluZXdlYmZvbnRzLmNvbS9zdmcvaW1nXzIyMzk0OC5wbmciIGFsdD0iTGlua2VkaW4gIiB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCI+CiAg" width="16" height="16">)
+![](https://pic.onlinewebfonts.com/svg/img_223948.png)
 
 **Education:**</br>
 Pinsk College of Mechanical Engineering</br>
