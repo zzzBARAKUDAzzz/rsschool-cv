@@ -36,10 +36,3 @@ Performed various tasks according to descriptions found on the Internet. Among t
 + JSON
 
 
-
- 
-
-
-
-
-
