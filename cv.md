@@ -1,4 +1,5 @@
-![](https://photos.google.com/photo/AF1QipMRc_S-9SW1r1AFzsjdwWmsXS8Q2JOzljbObcda)
+![](https://user-images.githubusercontent.com/107987405/199980099-f65c3848-4ad7-493d-b6df-8152210086b3.png)
+      
 # Poberezhny Vadim 
 **email:** poberezhnyvadim@gmail.com </br>
 **phone:** +375297044843</br>
