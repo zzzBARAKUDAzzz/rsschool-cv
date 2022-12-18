@@ -1,1 +1,123 @@
-p {color:red;}
+
+
+
+header {
+  height: 4rem;
+  text-align-last: center;
+  border: 1px solid black;
+  color: rgb(129, 98, 45);
+  background: rgb(46, 26, 1);
+}
+
+.mainBlock {
+  background: black;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+}
+
+.blockLeft {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  flex-wrap: nowrap;
+  background: rgb(129, 98, 45);
+}
+
+.imageClass {
+  margin: 0.4em;
+}
+
+.image {
+  width: 100%; 
+}
+
+.nav {
+  margin: 0.4em;
+  display: flex;
+  flex-direction: column;
+}
+
+.info {
+  
+  height: 2.5em;
+  color: rgb(129, 98, 45);
+  border: 1px solid black;
+  border-radius: 14px;
+  background: rgb(46,26,1);
+}
+
+.info p {
+  margin-left: 10px;
+}
+
+.info a {
+  margin-left: 10px;
+  color: rgb(129, 98, 45);
+}
+
+.blockRight {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  flex-wrap: nowrap;
+  background: rgb(255, 166, 0);
+  font-size: 130%
+
+}
+
+.rightContainer {
+  padding: 0.5em;
+  background: rgb(255, 166, 0);
+}
+
+.right {
+  border: 1px solid black;
+  border-radius: 14px;
+  color: rgb(255, 166, 0);
+  background: rgb(46, 26, 1);
+  margin: 0.3em 0;
+}
+
+footer {
+  height: 3rem;
+  text-align-last: center;
+  border: 1px solid black;
+  color: rgb(255, 166, 0);
+  background: rgb(46, 26, 1);
+}
+
+.urlssc {
+  border: 1px solid black;
+  border-radius: 14px;
+  color: rgb(255, 166, 0);
+  background: rgb(16, 16, 15);
+}
+
+.imgrss {
+  border: 1px solid black;
+  border-radius: 14px;
+  background: rgb(6, 4, 2);
+}
+
+.mygit {
+  border: 1px solid black;
+  border-radius: 14px;
+  color: rgb(255, 166, 0);
+  background: rgb(16, 16, 15);
+}
+.rightInfo{
+  margin-left: 22px;
+}
+.codeEx{
+  margin-left: -12px;
+}
+.mrgn{
+  margin-left: 12px;
+
+}
+
+

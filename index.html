@@ -1,11 +1,127 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <link rel="stylesheet" href="style.css" type="text/css"/>
-    <meta charset="utf-8">
-    <title>I love Belarus</title>
+<html lang="En"><head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <title>CV by Poberezhny Vadim</title>
   </head>
-  <body>
-    <p>Hello Belarus!!!</p>
-  </body>
+  <header><h1>Poberezhny Vadim</h1></header>
+  <main>
+    <div class="mainBlock">
+      <div class="blockLeft">
+        <div class="imageClass">
+          <img class="image" src="ing.png" alt="photo by Vadim Poberezhny">
+        </div>
+        <nav class="nav">
+          <div class="info">Email:</div>
+          <div class="info">
+            <a href="poberezhnyvadim@gmail.com">poberezhnyvadim@gmail.com</a>
+          </div>
+          <div class="info">Phone number:</div>
+          <div class="info">+375297044843</div>
+          <div class="info">Location:</div>
+          <div class="info">Brest,Belarus</div>
+        </nav>
+      </div>
+
+      <div class="blockRight">
+        <!-- <div class="right Header">
+        </div> -->
+
+        <div class="rightContainer">
+          <div class="right Edu">
+            <div class="Education"><h2 class="mrgn">Education:</h2></div>
+            <div class="rightInfo">
+              Pinsk College of Mechanical Engineering Mechanical Engineering
+              (2014-2015)
+            </div>
+          </div>
+          <div class="right EngLvl">
+            <div class="English_level">
+              <h2 class="mrgn">English level:</h2>
+            </div>
+            <div class="rightInfo">A2</div>
+          </div>
+          <div class="right Experience">
+            <div class="Work_experience">
+              <h2 class="mrgn">Work experience:</h2>
+            </div>
+            <div class="rightInfo">
+              June 2018 - september 2022 Insulator JSC “Beltps”
+            </div>
+            <div class="rightInfo">
+              November 2022-present car-mechanic "Santa bremor"
+            </div>
+          </div>
+          <div class="right Info">
+            <div class="Information">
+              <h2 class="mrgn">Information about me:</h2>
+            </div>
+            <div class="rightInfo">
+              I'm engaged in self-study of the salesforce platform and
+              programming in Apex, JavaScript. Also, I am studying the basics of
+              SQL Performed various tasks according to descriptions found on the
+              Internet. Among them: Aura component which containing a table that
+              displays all available accounts and with row action (edit, delete,
+              view). The component can be placed on an Account record and have
+              an online search. Aura component which can be placed on any record
+              page and displays the current weather in the city entered in the
+              search line. Works using free API openweathermap.org I also
+              reproduced the material from the trailhead, making my own
+              additions and watching how it would affect the result.
+            </div>
+          </div>
+
+          <div class="right Skils">
+            <div><h2 class="mrgn">Skils:</h2></div>
+            <ul>
+              <li class="rightInfo"><div class="rightInfo">Apex</div></li>
+              <li class="rightInfo"><div class="rightInfo">Lightning</div></li>
+              <li class="rightInfo">
+                <div class="rightInfo">Lightning web component</div>
+              </li>
+              <li class="rightInfo"><div class="rightInfo">SOQL</div></li>
+              <li class="rightInfo"><div class="rightInfo">JSON</div></li>
+              <li class="rightInfo"><div class="rightInfo">Rest</div></li>
+            </ul>
+          </div>
+
+          <div class="right Example">
+            <div><h2 class="mrgn">Code example:</h2></div>
+            <div class="codeEx">
+              <pre><code> 
+                public class DatatableHandler {
+    
+                  @AuraEnabled
+                  public static List account getAccountData(){
+                     return [SELECT Id,Name,AccountNumber,Industry,Phone FROM Account ];
+                  }
+                  
+                  @AuraEnabled
+                  public static void delAccount(String accId){
+                      Account accountToDelete = [SELECT Id FROM Account WHERE Id =:accId];
+                      delete accountToDelete;
+                  } 
+                  
+                  
+                  @AuraEnabled
+                  public static List account searchAccounts(String nameSegment){
+                      String searchStr = '%' + nameSegment + '%';
+                      List account accounts = [SELECT Id,Name,AccountNumber,Industry,Phone FROM Account WHERE Name LIKE :searchStr];
+                      return accounts;
+                  } 
+               } 
+              </code></pre>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer>
+      <img class="imgrss" src="rs_school-og.png" alt="rss">
+      <a class="urlssc" href="https://rs.school/js/"
+        >© 2022 The Rolling Scopes
+      </a>
+      <a class="mygit" href="https://github.com/zzzBARAKUDAzzz">© My github</a>
+    </footer>
+  </main>
 </html>
