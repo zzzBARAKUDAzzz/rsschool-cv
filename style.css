@@ -2,11 +2,11 @@
 
 
 header {
-  padding-top: 2px;
   height: 4rem;
   text-align-last: center;
-  color: rgb(240 239 238);
- background: rgb(45 129 113);
+  border: 1px solid black;
+  color: rgb(129, 98, 45);
+  background: rgb(46, 26, 1);
 }
 
 .mainBlock {
@@ -23,7 +23,7 @@ header {
   flex-direction: column;
   justify-content: flex-start;
   flex-wrap: nowrap;
-  background:rgb(45 129 113);
+  background: rgb(129, 98, 45);
 }
 
 .imageClass {
@@ -41,12 +41,12 @@ header {
 }
 
 .info {
-  height: 2em;
-  color: white;
+  
+  height: 2.5em;
+  color: rgb(129, 98, 45);
   border: 1px solid black;
   border-radius: 14px;
-  background: rgb(176 202 158);
-  padding-left:10px;
+  background: rgb(46,26,1);
 }
 
 .info p {
@@ -55,8 +55,7 @@ header {
 
 .info a {
   margin-left: 10px;
-  color:white;
-  text-decoration: none;
+  color: rgb(129, 98, 45);
 }
 
 .blockRight {
@@ -72,47 +71,51 @@ header {
 
 .rightContainer {
   padding: 0.5em;
-  background: rgb(45 129 113);
+  background: rgb(255, 166, 0);
 }
 
 .right {
-  border-radius: 14px;  
-  background: rgb(176 202 158);
+  border: 1px solid black;
+  border-radius: 14px;
+  color: rgb(255, 166, 0);
+  background: rgb(46, 26, 1);
   margin: 0.3em 0;
 }
 
 footer {
   height: 3rem;
   text-align-last: center;
+  border: 1px solid black;
   color: rgb(255, 166, 0);
-  background:rgb(45 129 113);
+  background: rgb(46, 26, 1);
 }
 
 .urlssc {
-  color:white;
-  text-decoration: none;
+  border: 1px solid black;
+  border-radius: 14px;
+  color: rgb(255, 166, 0);
+  background: rgb(16, 16, 15);
 }
 
 .imgrss {
+  border: 1px solid black;
   border-radius: 14px;
+  background: rgb(6, 4, 2);
 }
 
 .mygit {
-  color:white;
-  text-decoration: none;
-  margin-left: 32px;
-
+  border: 1px solid black;
+  border-radius: 14px;
+  color: rgb(255, 166, 0);
+  background: rgb(16, 16, 15);
 }
 .rightInfo{
   margin-left: 22px;
-  color: white;
 }
 .codeEx{
   margin-left: -12px;
-  color: white;
 }
 .mrgn{
-  color: white;
   margin-left: 12px;
 
 }
