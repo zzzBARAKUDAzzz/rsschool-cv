@@ -1,1 +1,1 @@
-https://zzzBARAKUDAzzz.github.io/rsschool-cv/cv
+https://github.com/zzzBARAKUDAzzz/rsschool-cv/blob/gh-pages/cv.md
