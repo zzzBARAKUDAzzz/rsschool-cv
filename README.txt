@@ -1,1 +1,1 @@
-https://zzzBARAKUDAzzz.github.io/rsschool-cv-html
+https://zzzBARAKUDAzzz.github.io/rsschool-cv
